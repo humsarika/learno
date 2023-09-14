@@ -1,0 +1,41 @@
+{
+  "name": "learno",
+  "version": "1.0.0",
+  "description": "online learning platform",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/humsarika/learno.git"
+  },
+  "keywords": [
+    "online",
+    "learning",
+    "learning",
+    "coding",
+    "tech",
+    "web",
+    "developement",
+    "data",
+    "science",
+    "app",
+    "development",
+    "programming",
+    "Website",
+    "developement",
+    "learno"
+  ],
+  "author": "Sarika Kushwaha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/humsarika/learno/issues"
+  },
+  "homepage": "https://github.com/humsarika/learno#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "joi": "^13.1.0",
+    "mongoose": "^7.5.1"
+  }
+}
